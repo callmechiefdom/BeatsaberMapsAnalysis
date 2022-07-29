@@ -1,0 +1,74 @@
+{
+  "_version": "2.0.0",							
+  "_songName": "!!FEVERTIME!!",
+  "_songSubName": "",
+  "_songAuthorName": "Camellia",
+  "_levelAuthorName": "Various Mappers",
+  "_beatsPerMinute": 175,							# 歌曲的bpm 
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 79.12000274658203,
+  "_previewDuration": 15,
+  "_songFilename": "song.egg",						# 音乐的文件名
+  "_coverImageFilename": "cover.jpg",
+  "_environmentName": "DefaultEnvironment",
+  "_songTimeOffset": 0,								# 延时
+  "_customData": {
+	"..."
+  },
+  "_difficultyBeatmapSets": [						# 难度配置
+    {
+      "_beatmapCharacteristicName": "Standard",		# 难度标识，目前只学习这个难度的数据即可
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Hard",
+          "_difficultyRank": 5,
+          "_beatmapFilename": "HardStandard.dat",	# 该难度标识下的文件名
+          "_noteJumpMovementSpeed": 17,
+          "_noteJumpStartBeatOffset": 0.5,
+          "_customData": {
+            "_difficultyLabel": "Expert",
+            "_editorOffset": -80,
+            "_editorOldOffset": -80,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        },
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "ExpertStandard.dat",
+          "_noteJumpMovementSpeed": 21,
+          "_noteJumpStartBeatOffset": -0.20000000298023224,
+          "_customData": {
+            "_difficultyLabel": "Scara Ex+",
+            "_editorOffset": -80,
+            "_editorOldOffset": -80,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        },
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed": 21,
+          "_noteJumpStartBeatOffset": -0.20000000298023224,
+          "_customData": {
+            "_difficultyLabel": "ChaosBT+",
+            "_editorOffset": -80,
+            "_editorOldOffset": -80,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}
