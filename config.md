@@ -4,8 +4,8 @@
 
 ## 总结构
 + 一首歌曲及其谱面会统一放在一个文件夹下面，多首歌曲对应多个不同的文件夹，类似如下的结构：
-	+ allFiles.png
-+ 每个文件夹下面主要有4类型文件：
+	+ ![image](https://github.com/callmechiefdom/BeatsaberMapsAnalysis/blob/main/IMG/allFiles.png)
+	+ 每个文件夹下面主要有4类型文件：
 	+ **Info文件**
 		+ 这个文件的文件名一定是“Info”，包含文件夹内这首歌的基础信息，读取的音乐文件，使用的封面图、以及不同模式、难度调用的Difficulty文件是哪个，等等
 	+ **Difficulty文件**
