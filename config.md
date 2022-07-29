@@ -14,18 +14,18 @@
 		+ .ogg .mp3 
 	+ 歌曲封面图
 + 整体结构图
-	+ inZipFile.png
+	+ ![image](https://github.com/callmechiefdom/BeatsaberMapsAnalysis/blob/main/IMG/inZipFile.png)
 ## info文件
 + file ./musicFile/info.dat
 + Info文件的常用结构如下
-	+ info.dat.png
+	+ ![image](https://github.com/callmechiefdom/BeatsaberMapsAnalysis/blob/main/IMG/info.dat.png)
 
 ## difficult文件
 + file: ./musicFile/HardStandard.dat
 +  _notes 数据说明
-	+ notes.png
+	+ ![image](https://github.com/callmechiefdom/BeatsaberMapsAnalysis/blob/main/IMG/notes.png)
 + _events 数据说明
-	+ event0.png
-	+ event1.png
+	+ ![image](https://github.com/callmechiefdom/BeatsaberMapsAnalysis/blob/main/IMG/event0.png)
+	+ ![image](https://github.com/callmechiefdom/BeatsaberMapsAnalysis/blob/main/IMG/event1.png)
 + _obstacles 数据说明
-	+ obstacles.png
+	+ ![image](https://github.com/callmechiefdom/BeatsaberMapsAnalysis/blob/main/IMG/obstacles.png)
