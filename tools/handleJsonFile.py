@@ -35,7 +35,7 @@ def handleAllFile():
 
     # malody
 
-    with open(OUTDIR + "/malody.txt", "w") as f:
+    with open(OUTDIR + "malody.txt", "w") as f:
         for y in Y:
             strs = [str(i) for i in y]
             line = " ".join(strs)
